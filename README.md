@@ -54,11 +54,3 @@ Here are some suggested next steps to enhance GPTravel:
 * Enable social sharing features to allow users to share their travel plans with friends and family.
 
 Contributions are welcome! Feel free to explore the GitHub repository and submit pull requests or open issues to contribute to the development of GPTravel.
-
-## License 📄
-This project is licensed under the MIT License.
-
-## Authors ✍️
-GPTravel is developed and maintained by:
-- [Roberto Corti](https://github.com/RobertoCorti)
-- [Stefano Polo](https://github.com/stefano-polo)
